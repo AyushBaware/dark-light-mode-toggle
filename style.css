@@ -1,0 +1,23 @@
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+#mode {
+  padding: 10px;
+  border-radius: 20px;
+  border: 2px solid black;
+  font-weight: bold;
+}
